@@ -9,7 +9,7 @@
 
 body {
   height: 100vh;
-  background: linear-gradient(#03144e, #700785);
+  background: linear-gradient(#44045e, #050014);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -25,7 +25,7 @@ body {
   border-radius: 1em;
   font-size: 1.2em;
   line-height: 1.6em;
-  box-shadow: 0 1em 12.4em rgb(1, 255, 255);
+  box-shadow: 0 0 12.4em rgb(255, 0, 0);
 }
 
 .container img {
@@ -34,10 +34,11 @@ body {
 
 p {
   font-weight: 400;
-  color: #f7f7f7;
+  color: #cdfa03;
 }
 
 span {
   font-weight: 400;
-  color: #00e1ff;
+  color: #01daf7;
+  padding: 1rem;
 }
